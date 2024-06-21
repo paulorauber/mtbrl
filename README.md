@@ -1,4 +1,4 @@
-# Bayes-Adaptive reinforcement learning in Python
+# Bayes-adaptive reinforcement learning in Python
 
 ## Examples
 
